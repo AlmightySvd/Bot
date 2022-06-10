@@ -22,7 +22,7 @@ envíame por t.me/fgsupp_bot el *audio + comando* con en el que responderá
 └──────────────`
 const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
     
-    conn.sendHydrated(m.chat, m2, '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.facebook.com/SvdRuthless/\n', pp, 'https://www.facebook.com/SvdRuthless/', 'YouTube', null, null, [
+    conn.sendHydrated(m.chat, m2, '▢ 𝙇𝙚𝙜𝙖𝙡𝙞𝙯𝙖𝙡𝙖 𝙥𝙚 𝙘𝙖𝙪𝙨𝙖🍁  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.facebook.com/SvdRuthless/\n', pp, 'https://www.facebook.com/SvdRuthless/', 'YouTube', null, null, [
      ['⏍ Info', '/botinfo'],
       ['⌬ Grupos', '/gpdylux']
     ], m)
