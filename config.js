@@ -4,14 +4,14 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['51977802958', 'SERGIO', true], 
-  ['51912794828'], 
-  ['12254384047'], 
+  ['51977802958'], 
+  ['51977802958'], 
  ['51977802958'] 
   
 ] //Numeros de owner 
 
 global.mods = [] // Moderadores
-global.prems = ['51977802958', '12254384047', '51912794828']  // El usuario Premium tiene diamantes ilimitado
+global.prems = ['51977802958', '51977802958', '51977802958']  // El usuario Premium tiene diamantes ilimitado
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
