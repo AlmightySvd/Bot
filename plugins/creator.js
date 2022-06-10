@@ -4,11 +4,11 @@ function handler(m) {
   
   m.reply(`
 *≡ OWNER*
-  *NADA-SERGIO*
+  *Sxrgio*
 ▢ Instagram :
   • http://Instagram.com/not.sxrgio
 ▢ WhatsApp :
-  • (wa.me/2348035311575) 
+  • (wa.me/51977802958) 
 ▢ GitHub :
   • 
 ▢ Telegram : 
@@ -22,12 +22,12 @@ function handler(m) {
   • https://www.facebook.com/SvdRuthless/
   
  *≡ HELPERS*
-  *SERGIO-NADA*
-▢ Instagram : https://www.instagram.com/sayurizuniga3
+  *Sxrgio*
+▢ Instagram : https://www.instagram.com/not.sxrgio
 ▢ WhatsApp : wa.me/
   *SOPORTE*
 ▢ Instagram : https://
-▢ WhatsApp : wa.me/2348035311575
+▢ WhatsApp : wa.me/51977802958
 `) 
 
 
